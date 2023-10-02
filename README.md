@@ -1,3 +1,4 @@
 # AM2DCVRP
 
-"At the moment, we have only a partial set of experimental results available, along with a web page that connects to our cloud server and can be used to test the algorithm for solving the dynamic CVRP (Capacitated Vehicle Routing Problem). This serves the purpose of temporarily showcasing the replicability of the experimental results. The detailed source code will be made open-source in the upcoming rounds of review."
+
+Detailed source code will be made open-source after a while, instead a web page is available here to test only the algorithm for solving the dynamic CVRP along with some experimental results.
